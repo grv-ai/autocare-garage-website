@@ -1,2 +1,19 @@
-# autocare-garage-website
-A responsive car repair and garage service website built using HTML and CSS. Includes hero section, services, business hours, and contact CTA.
+# AutoCare Garage Website
+
+A clean and responsive garage service website designed for car repair businesses.
+
+## 🚗 Features
+- Hero section with background image
+- Service cards
+- Business hours section
+- Call & WhatsApp CTA buttons
+- Fully responsive design
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+
+
+## 👤 Author
+Gaurav Joshi
+
